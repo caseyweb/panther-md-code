@@ -59,32 +59,32 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Maher_Zubair.sendMessage(Qr_Code_By_Maher_Zubair.user.id, { text: 'PANTHER;;;' + b64data });
 	
 				   let SIGMA_MD_TEXT = `
-*𝑩𝑳𝑨𝑪𝑲 𝑷𝑨𝑵𝑻𝑯𝑬𝑹 𝑺𝑬𝑺𝑺𝑰𝑶𝑵 𝑹𝑼𝑵𝑵𝑰𝑵𝑮*
-*𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝙏𝙀𝘾𝙃*
-*𝙊𝙒𝙉𝙀𝙍 : 𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝘼𝘿𝘼𝙈𝙎*
+*𝙲𝙰𝚂𝙴𝚈𝚁𝙷𝙾𝙳𝙴𝚂 𝙼𝙳 𝙸𝚂 𝚁𝚄𝙽𝙽𝙸𝙽𝙶*
+*𝙲𝙰𝚂𝙴𝚈𝚁𝙷𝙾𝙳𝙴𝚂 𝚃𝙴𝙲𝙷𝙽𝙾𝙻𝙾𝙶𝙸𝙴𝚂*
+*𝙊𝙒𝙉𝙀𝙍 : 𝙲𝙰𝚂𝙴𝚈𝚁𝙷𝙾𝙳𝙴𝚂*
 ____________________________________
 ╔════◇
-║『 𝘽𝙇𝘼𝘾𝙆 𝙋𝘼𝙉𝙏𝙃𝙀𝙍 𝙄𝙎 𝙍𝙀𝘼𝘿𝙔 𝙏𝙊 𝘿𝙀𝙋𝙇𝙊𝙔』
+║『 𝘾𝘼𝙎𝙀𝙔𝙍𝙃𝙊𝘿𝙀𝙎 𝙈𝘿 𝙄𝙎 𝙍𝙀𝘼𝘿𝙔 𝙏𝙊 𝘿𝙀𝙋𝙇𝙊𝙔』
 ║ OK YOUR SESSION IS READY COPY IT  
 ║ AND HOST IT ON HEROKU.
 ╚════════════════════╝
 ╔═════◇
 ║ 『••• OWNER INFO •••』
-║ ❒ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: _https://www.youtube.com/@ibrahimmdgpt_
+║ ❒ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: _https://www.youtube.com/@caseyehodes01_
 
-║ ❒ 𝐎𝐰𝐧𝐞𝐫: _https://wa.me/message/74F2PC4JA4F3P1_
+║ ❒ 𝐎𝐰𝐧𝐞𝐫: _https://wa.me/254112192119_
 
-║ ❒ 𝐑𝐞𝐩𝐨: _https://github.com/ibrahimaitech/IBRAHIM-MD_
+║ ❒ 𝐑𝐞𝐩𝐨: _https://github.com/caseyweb/ZHEZHO-MD_
 
-║ ❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/H6KaBzAhRnw52DM93KsRy2_
+║ ❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/Lcw1jJCMa6a82RDEW5XM1j_
 
-║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y_
+║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E_
 
-║ ❒ 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: _https://www.instagram.com/ibrahim_tech_official_
+║ ❒ 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: _https://www.instagram.com/caseyrhodes _
 
 ║ 🐯🐯🐯
 ╚════════════════════╝ 
- *©𝗜𝗕𝗥𝗔𝗛𝗜𝗠 𝗧𝗘𝗖𝗛*
+ *©𝗖𝗔𝗦𝗘𝗬𝗥𝗛𝗢𝗗𝗘𝗗 𝗧𝗘𝗖𝗛*
 ___________________________________
 
 Don't Forget To Give Star⭐ To My Repo`
